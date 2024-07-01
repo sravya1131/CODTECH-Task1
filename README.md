@@ -5,7 +5,7 @@ Domain: Java programming
 Durartion: 25th May 2024 to 25th July 2024
 Mentor: SRAVANI GOUNI
 
-<html><h1>Overview<\h1><\html>
+<\html><\h3>Overview<h3><html>
 Objective
 To create a Java program that functions as a simple calculator. The program will prompt the user to input two numbers and select an operation (addition, subtraction, multiplication, or division). It will then perform the selected operation and display the result.
 
