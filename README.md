@@ -5,8 +5,9 @@ Domain: Java programming
 Durartion: 25th May 2024 to 25th July 2024
 Mentor: SRAVANI GOUNI
 
-<\html><\h3>Overview<h3><html>
+Overview
 Objective
+
 To create a Java program that functions as a simple calculator. The program will prompt the user to input two numbers and select an operation (addition, subtraction, multiplication, or division). It will then perform the selected operation and display the result.
 
 Key Components
@@ -64,3 +65,4 @@ The program performs the selected operation (e.g., 10 + 5).
 The program displays the result (e.g., "Result: 15").
 The Java code provided earlier implements these steps to create a functional simple calculator.
 
+![Screenshot (6)](https://github.com/sravya1131/CODTECH-Task1/assets/112858180/d8451745-22ad-475d-ba0c-9ed55c3d0fe1)
